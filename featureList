@@ -1,12 +1,13 @@
 Features - To Be Implemented
 
 - Tag system (Import from sites if possible, user-defined)
-- Site APIs?
+- Site APIs? - Probably not, seeing as these don't really ~ exist ~
 - Sorting options
 - License import
-- Basic info (number of characters, title, author, preview)
+- Basic info (number of characters, title, author, preview, etc)
 - Search, with filtering options
 - Character sheet/Generate character sheet options (print to pdf?)
+- Support for most common font formats
 
 Implemented Features:
 
